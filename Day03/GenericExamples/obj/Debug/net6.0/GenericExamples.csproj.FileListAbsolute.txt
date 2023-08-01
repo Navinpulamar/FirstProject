@@ -1,0 +1,15 @@
+C:\Users\npulamarasetti\Documents\Training_C#\Day03\GenericExamples\bin\Debug\net6.0\GenericExamples.exe
+C:\Users\npulamarasetti\Documents\Training_C#\Day03\GenericExamples\bin\Debug\net6.0\GenericExamples.deps.json
+C:\Users\npulamarasetti\Documents\Training_C#\Day03\GenericExamples\bin\Debug\net6.0\GenericExamples.runtimeconfig.json
+C:\Users\npulamarasetti\Documents\Training_C#\Day03\GenericExamples\bin\Debug\net6.0\GenericExamples.dll
+C:\Users\npulamarasetti\Documents\Training_C#\Day03\GenericExamples\bin\Debug\net6.0\GenericExamples.pdb
+C:\Users\npulamarasetti\Documents\Training_C#\Day03\GenericExamples\obj\Debug\net6.0\GenericExamples.csproj.AssemblyReference.cache
+C:\Users\npulamarasetti\Documents\Training_C#\Day03\GenericExamples\obj\Debug\net6.0\GenericExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\npulamarasetti\Documents\Training_C#\Day03\GenericExamples\obj\Debug\net6.0\GenericExamples.AssemblyInfoInputs.cache
+C:\Users\npulamarasetti\Documents\Training_C#\Day03\GenericExamples\obj\Debug\net6.0\GenericExamples.AssemblyInfo.cs
+C:\Users\npulamarasetti\Documents\Training_C#\Day03\GenericExamples\obj\Debug\net6.0\GenericExamples.csproj.CoreCompileInputs.cache
+C:\Users\npulamarasetti\Documents\Training_C#\Day03\GenericExamples\obj\Debug\net6.0\GenericExamples.dll
+C:\Users\npulamarasetti\Documents\Training_C#\Day03\GenericExamples\obj\Debug\net6.0\refint\GenericExamples.dll
+C:\Users\npulamarasetti\Documents\Training_C#\Day03\GenericExamples\obj\Debug\net6.0\GenericExamples.pdb
+C:\Users\npulamarasetti\Documents\Training_C#\Day03\GenericExamples\obj\Debug\net6.0\GenericExamples.genruntimeconfig.cache
+C:\Users\npulamarasetti\Documents\Training_C#\Day03\GenericExamples\obj\Debug\net6.0\ref\GenericExamples.dll
